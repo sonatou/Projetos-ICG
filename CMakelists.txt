@@ -59,6 +59,7 @@ set(EXERCISES
     Lista1/Ex7E
     Lista1/Ex8
     Lista1/Ex9
+    GrauA/Game
 )
 
 add_compile_options(-Wno-pragmas)
